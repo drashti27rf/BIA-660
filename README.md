@@ -7,3 +7,5 @@ Scraped the data from www.cnet.com and Scraped name, description, price, rating 
 Using of Natural Language Processing 
 # Assignmnet 4 
 Using of Naive Bayes Model implement Text Classification 
+# Assignment 5 
+Implemented Text Clustering 
